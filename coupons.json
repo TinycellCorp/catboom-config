@@ -6,11 +6,11 @@
       "until": "2026-10-31T23:59:59+09:00",
       "rewards": [
         {
-          "item": 2,
+          "item": "Gold",
           "count": 10000
         },
         {
-          "item": 3,
+          "item": "Diamond",
           "count": 100
         }
       ]
