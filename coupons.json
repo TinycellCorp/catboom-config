@@ -14,6 +14,15 @@
           "count": 100
         }
       ]
+    },
+    "fea7fb26d8336dd7d889285afb48d880e1f0b2c5bb2ad33dbb707147cc1d4606": {
+      "id": "catdefense2026",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
     }
   }
 }
