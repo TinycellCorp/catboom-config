@@ -1,6 +1,15 @@
 {
   "v": 1,
   "coupons": {
+    "44199bb361a70933fdf72f9e2e8968dc76148940856dbff8ddf94ad6016ab0fd": {
+      "id": "reserve08",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
     "63588fa7a9b379578e060bda2445d0e43fcf708c7910ff9d78d18220d0528181": {
       "id": "test1019",
       "until": "2026-10-31T23:59:59+09:00",
@@ -12,6 +21,78 @@
         {
           "item": "Diamond",
           "count": 100
+        }
+      ]
+    },
+    "644707bef166742139144a4839e2546a52b65e5cc6d949cc8efdc67805b12546": {
+      "id": "reserve07",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
+    "7942014a1fee757acb4decbb1fc952c0c8684d9be9244c84189a5456ea03986a": {
+      "id": "reserve04",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
+    "7acda5c63860810720c0d2b3ff01d26bf75d10052ba83cb9966e0e2bb57448e1": {
+      "id": "reserve06",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
+    "90bb44627fffcf6623b25b39d182d16f5f2f6a6f901cfa78b5c7772de6421ac4": {
+      "id": "reserve05",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
+    "b9bdb846f23bd87295a5119e6da7acae67e84c6b93fc0b03b8c609fa07d4be05": {
+      "id": "reserve03",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
+    "bab50e3e8749edcf7ae8097af4b079e0730eda03de57eafd4ef7e08a3755a895": {
+      "id": "reserve02",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
+    "f7d8dcd776729c2d248b107749c02f24cace658379de6846120a4a4f95345e1c": {
+      "id": "reserve09",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
+        }
+      ]
+    },
+    "fab26be0ecc53e6b440826dae0fd97dbe07e16a55161112644253657672885e3": {
+      "id": "reserve01",
+      "rewards": [
+        {
+          "item": "Diamond",
+          "count": 300
         }
       ]
     },
